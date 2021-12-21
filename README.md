@@ -2,7 +2,8 @@
 MIT 6.843 Course Project. We use a simple idea for open-text semantic segmentation task. The code largely follows [Cliport](https://github.com/cliport/cliport) and [Uois](https://github.com/chrisdxie/uois). We hope this code can be used for robotic researchers that require good generalization property in language and vision-wise segmentation.
 
 [Slide](https://docs.google.com/presentation/d/10X7pzc3wIvRkoD2O28ResuEQc4Fqq-T4RMatbtvL6iQ/edit#slide=id.p) [Report](assets/Report.pdf)
-![image](assets/clip-seg.png)
+
+![image](assets/clipseg.png)
 
 ### Installation
 ```bash
