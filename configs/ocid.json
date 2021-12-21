@@ -1,0 +1,23 @@
+{
+    "dataset": "test_data/OCID/",
+    "img_width": 640,
+    "img_height": 480,
+    "near": 0.01,
+    "far": 100,
+    "fov": 45,  
+    "use_object_descriptions": false,
+    "use_data_augmentation": true,
+    "gamma_shape": 1000,
+    "gamma_scale": 0.001,
+    "gaussian_scale_range": [0, 0.003],  
+    "gp_rescale_factor_range": [12, 20], 
+    "ellipse_dropout_mean": 10,
+    "ellipse_gamma_shape": 5.0,
+    "ellipse_gamma_scale": 1.0,
+    "gradient_dropout_left_mean": 15,
+    "gradient_dropout_alpha": 2,
+    "gradient_dropout_beta": 5,
+
+    "pixel_dropout_alpha": 0.2,
+    "pixel_dropout_beta": 10
+}
